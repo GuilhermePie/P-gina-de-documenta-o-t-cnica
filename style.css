@@ -123,7 +123,7 @@ input:checked ~ label .menu_sandwich::after{
 @media (max-width:900px){
     #main-doc {
         margin:80px auto 0px auto;
-        width: 100%;
+        width: 88%;
         height: 80%;
         padding: 10px 35px 10px 10px;
     }
@@ -171,7 +171,7 @@ input:checked ~ label .menu_sandwich::after{
         height: 2px;
         top: 17px;
         left: 8px;
-        transition: 0.5s;
+        transition: 0.4s;
 
     }
 
@@ -182,7 +182,7 @@ input:checked ~ label .menu_sandwich::after{
         background: #4d4e53;
         width: 100%;
         height: 100%;
-        transition: 0.5s;
+        transition: 0.4s;
     }
 
     .menu_sandwich::before{
